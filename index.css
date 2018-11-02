@@ -48,7 +48,7 @@ title{
     
 }
 
-.card-centered > p {
+.card-centered >div> p {
     text-align: justify;
     padding: 20px;
 }
